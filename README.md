@@ -15,3 +15,4 @@ El portafolio cuenta con un diseño minimalista con el proposito de utilizar la 
 + **CSS3**:Para el diseño y posicionamiento del contenido se utilizo flexbox ,responsive ,efectos de hover y querys.
   
 # Vista Previa del Proyecto
+![head](imagenes/interfaz_portafolio.png)
